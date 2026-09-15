@@ -1,0 +1,930 @@
+[
+  {
+    "Avg_Price": 18.5,
+    "CropName": "椰子"
+  },
+  {
+    "Avg_Price": 62.5,
+    "CropName": "釋迦"
+  },
+  {
+    "Avg_Price": 159.1,
+    "CropName": "藍莓"
+  },
+  {
+    "Avg_Price": 116.8,
+    "CropName": "百香果"
+  },
+  {
+    "Avg_Price": 55.0,
+    "CropName": "小番茄"
+  },
+  {
+    "Avg_Price": 35.8,
+    "CropName": "紅龍果"
+  },
+  {
+    "Avg_Price": 254.3,
+    "CropName": "櫻桃"
+  },
+  {
+    "Avg_Price": 222.2,
+    "CropName": "山竹"
+  },
+  {
+    "Avg_Price": 118.7,
+    "CropName": "紅毛丹"
+  },
+  {
+    "Avg_Price": 36.4,
+    "CropName": "其他"
+  },
+  {
+    "Avg_Price": 12.6,
+    "CropName": "香蕉"
+  },
+  {
+    "Avg_Price": 45.6,
+    "CropName": "鳳梨"
+  },
+  {
+    "Avg_Price": 73.1,
+    "CropName": "柑橘"
+  },
+  {
+    "Avg_Price": 36.9,
+    "CropName": "甜橙"
+  },
+  {
+    "Avg_Price": 29.8,
+    "CropName": "雜柑"
+  },
+  {
+    "Avg_Price": 48.6,
+    "CropName": "黃秋葵"
+  },
+  {
+    "Avg_Price": 52.7,
+    "CropName": "花椰菜"
+  },
+  {
+    "Avg_Price": 20.3,
+    "CropName": "胡瓜"
+  },
+  {
+    "Avg_Price": 37.5,
+    "CropName": "花胡瓜"
+  },
+  {
+    "Avg_Price": 20.2,
+    "CropName": "冬瓜"
+  },
+  {
+    "Avg_Price": 31.6,
+    "CropName": "絲瓜"
+  },
+  {
+    "Avg_Price": 33.5,
+    "CropName": "苦瓜"
+  },
+  {
+    "Avg_Price": 12.0,
+    "CropName": "扁蒲"
+  },
+  {
+    "Avg_Price": 19.2,
+    "CropName": "茄子"
+  },
+  {
+    "Avg_Price": 74.6,
+    "CropName": "番茄"
+  },
+  {
+    "Avg_Price": 33.0,
+    "CropName": "甜椒"
+  },
+  {
+    "Avg_Price": 168.8,
+    "CropName": "豌豆"
+  },
+  {
+    "Avg_Price": 43.6,
+    "CropName": "菜豆"
+  },
+  {
+    "Avg_Price": 130.6,
+    "CropName": "敏豆"
+  },
+  {
+    "Avg_Price": 60.0,
+    "CropName": "毛豆"
+  },
+  {
+    "Avg_Price": 65.0,
+    "CropName": "青花苔"
+  },
+  {
+    "Avg_Price": 30.0,
+    "CropName": "越瓜"
+  },
+  {
+    "Avg_Price": 33.9,
+    "CropName": "南瓜"
+  },
+  {
+    "Avg_Price": 12.4,
+    "CropName": "隼人瓜"
+  },
+  {
+    "Avg_Price": 78.2,
+    "CropName": "辣椒"
+  },
+  {
+    "Avg_Price": 67.5,
+    "CropName": "玉米"
+  },
+  {
+    "Avg_Price": 47.0,
+    "CropName": "落花生"
+  },
+  {
+    "Avg_Price": 42.2,
+    "CropName": "黃金果"
+  },
+  {
+    "Avg_Price": 48.6,
+    "CropName": "酪梨"
+  },
+  {
+    "Avg_Price": 101.8,
+    "CropName": "奇異果"
+  },
+  {
+    "Avg_Price": 18.2,
+    "CropName": "波蘿蜜"
+  },
+  {
+    "Avg_Price": 25.7,
+    "CropName": "榴槤蜜"
+  },
+  {
+    "Avg_Price": 70.0,
+    "CropName": "葡萄柚"
+  },
+  {
+    "Avg_Price": 53.7,
+    "CropName": "木瓜"
+  },
+  {
+    "Avg_Price": 112.4,
+    "CropName": "荔枝"
+  },
+  {
+    "Avg_Price": 62.0,
+    "CropName": "龍眼"
+  },
+  {
+    "Avg_Price": 5.0,
+    "CropName": "甘藍"
+  },
+  {
+    "Avg_Price": 18.8,
+    "CropName": "小白菜"
+  },
+  {
+    "Avg_Price": 125.0,
+    "CropName": "包心白"
+  },
+  {
+    "Avg_Price": 79.1,
+    "CropName": "包心白菜"
+  },
+  {
+    "Avg_Price": 11.4,
+    "CropName": "青江白菜"
+  },
+  {
+    "Avg_Price": 36.0,
+    "CropName": "皇宮菜"
+  },
+  {
+    "Avg_Price": 7.4,
+    "CropName": "蕹菜"
+  },
+  {
+    "Avg_Price": 85.6,
+    "CropName": "芹菜"
+  },
+  {
+    "Avg_Price": 126.2,
+    "CropName": "菠菜"
+  },
+  {
+    "Avg_Price": 130.9,
+    "CropName": "萵苣菜"
+  },
+  {
+    "Avg_Price": 10.0,
+    "CropName": "芥菜"
+  },
+  {
+    "Avg_Price": 13.6,
+    "CropName": "芥藍菜"
+  },
+  {
+    "Avg_Price": 16.6,
+    "CropName": "莧菜"
+  },
+  {
+    "Avg_Price": 10.3,
+    "CropName": "油菜"
+  },
+  {
+    "Avg_Price": 20.8,
+    "CropName": "甘薯葉"
+  },
+  {
+    "Avg_Price": 139.2,
+    "CropName": "芫荽"
+  },
+  {
+    "Avg_Price": 20.6,
+    "CropName": "九層塔"
+  },
+  {
+    "Avg_Price": 15.0,
+    "CropName": "羅勒"
+  },
+  {
+    "Avg_Price": 41.2,
+    "CropName": "紅鳳菜"
+  },
+  {
+    "Avg_Price": 50.0,
+    "CropName": "海菜"
+  },
+  {
+    "Avg_Price": 49.4,
+    "CropName": "巴西利"
+  },
+  {
+    "Avg_Price": 39.1,
+    "CropName": "蕨菜"
+  },
+  {
+    "Avg_Price": 8.0,
+    "CropName": "黑甜仔菜"
+  },
+  {
+    "Avg_Price": 40.0,
+    "CropName": "藤川七"
+  },
+  {
+    "Avg_Price": 202.7,
+    "CropName": "洋菇"
+  },
+  {
+    "Avg_Price": 48.1,
+    "CropName": "濕木耳"
+  },
+  {
+    "Avg_Price": 141.7,
+    "CropName": "濕香菇"
+  },
+  {
+    "Avg_Price": 43.3,
+    "CropName": "金絲菇"
+  },
+  {
+    "Avg_Price": 44.0,
+    "CropName": "蠔菇"
+  },
+  {
+    "Avg_Price": 74.2,
+    "CropName": "秀珍菇"
+  },
+  {
+    "Avg_Price": 62.9,
+    "CropName": "杏鮑菇"
+  },
+  {
+    "Avg_Price": 130.7,
+    "CropName": "鴻喜菇"
+  },
+  {
+    "Avg_Price": 133.3,
+    "CropName": "柳松菇"
+  },
+  {
+    "Avg_Price": 138.1,
+    "CropName": "其他菇類"
+  },
+  {
+    "Avg_Price": 30.7,
+    "CropName": "李"
+  },
+  {
+    "Avg_Price": 57.4,
+    "CropName": "梨"
+  },
+  {
+    "Avg_Price": 35.0,
+    "CropName": "鹹菜"
+  },
+  {
+    "Avg_Price": 30.0,
+    "CropName": "雪里紅"
+  },
+  {
+    "Avg_Price": 30.0,
+    "CropName": "蘿蔔乾"
+  },
+  {
+    "Avg_Price": 49.4,
+    "CropName": "熟筍"
+  },
+  {
+    "Avg_Price": 38.1,
+    "CropName": "番石榴"
+  },
+  {
+    "Avg_Price": 241.0,
+    "CropName": "蓮霧"
+  },
+  {
+    "Avg_Price": 76.3,
+    "CropName": "芒果"
+  },
+  {
+    "Avg_Price": 145.9,
+    "CropName": "葡萄"
+  },
+  {
+    "Avg_Price": 90.0,
+    "CropName": "蘿蔔"
+  },
+  {
+    "Avg_Price": 11.8,
+    "CropName": "胡蘿蔔"
+  },
+  {
+    "Avg_Price": 21.5,
+    "CropName": "馬鈴薯"
+  },
+  {
+    "Avg_Price": 20.0,
+    "CropName": "洋蔥"
+  },
+  {
+    "Avg_Price": 86.8,
+    "CropName": "青蔥"
+  },
+  {
+    "Avg_Price": 35.8,
+    "CropName": "韭菜"
+  },
+  {
+    "Avg_Price": 132.8,
+    "CropName": "大蒜"
+  },
+  {
+    "Avg_Price": 39.8,
+    "CropName": "竹筍"
+  },
+  {
+    "Avg_Price": 20.8,
+    "CropName": "芋"
+  },
+  {
+    "Avg_Price": 70.0,
+    "CropName": "荸薺"
+  },
+  {
+    "Avg_Price": 16.8,
+    "CropName": "豆薯"
+  },
+  {
+    "Avg_Price": 35.0,
+    "CropName": "牛蒡"
+  },
+  {
+    "Avg_Price": 54.4,
+    "CropName": "蓮藕"
+  },
+  {
+    "Avg_Price": 23.4,
+    "CropName": "甘薯"
+  },
+  {
+    "Avg_Price": 148.4,
+    "CropName": "薑"
+  },
+  {
+    "Avg_Price": 54.7,
+    "CropName": "茭白筍"
+  },
+  {
+    "Avg_Price": 95.0,
+    "CropName": "薯蕷"
+  },
+  {
+    "Avg_Price": 109.7,
+    "CropName": "蘆筍"
+  },
+  {
+    "Avg_Price": 20.0,
+    "CropName": "芽菜類"
+  },
+  {
+    "Avg_Price": 90.0,
+    "CropName": "半天筍"
+  },
+  {
+    "Avg_Price": 50.0,
+    "CropName": "晚香玉筍"
+  },
+  {
+    "Avg_Price": 36.9,
+    "CropName": "香茅"
+  },
+  {
+    "Avg_Price": 35.9,
+    "CropName": "西瓜"
+  },
+  {
+    "Avg_Price": 23.5,
+    "CropName": "甜瓜"
+  },
+  {
+    "Avg_Price": 163.3,
+    "CropName": "洋香瓜"
+  },
+  {
+    "Avg_Price": 88.2,
+    "CropName": "蘋果"
+  },
+  {
+    "Avg_Price": 84.0,
+    "CropName": "桃子"
+  },
+  {
+    "Avg_Price": 23.4,
+    "CropName": "柿子"
+  },
+  {
+    "Avg_Price": 19.9,
+    "CropName": "火鶴花"
+  },
+  {
+    "Avg_Price": 114.4,
+    "CropName": "大菊"
+  },
+  {
+    "Avg_Price": 125.7,
+    "CropName": "染大菊"
+  },
+  {
+    "Avg_Price": 35.5,
+    "CropName": "小菊"
+  },
+  {
+    "Avg_Price": 116.7,
+    "CropName": "染小菊"
+  },
+  {
+    "Avg_Price": 52.0,
+    "CropName": "非洲菊"
+  },
+  {
+    "Avg_Price": 110.3,
+    "CropName": "劍蘭"
+  },
+  {
+    "Avg_Price": 16.7,
+    "CropName": "其它花卉"
+  },
+  {
+    "Avg_Price": 142.0,
+    "CropName": "柔麗絲"
+  },
+  {
+    "Avg_Price": 26.0,
+    "CropName": "八卦草(黃河)"
+  },
+  {
+    "Avg_Price": 36.6,
+    "CropName": "黃梔花"
+  },
+  {
+    "Avg_Price": 104.7,
+    "CropName": "洋甘菊"
+  },
+  {
+    "Avg_Price": 68.6,
+    "CropName": "萬壽菊"
+  },
+  {
+    "Avg_Price": 162.0,
+    "CropName": "水仙百合"
+  },
+  {
+    "Avg_Price": 77.3,
+    "CropName": "天堂鳥"
+  },
+  {
+    "Avg_Price": 49.0,
+    "CropName": "小天堂鳥"
+  },
+  {
+    "Avg_Price": 62.0,
+    "CropName": "黃金鳥"
+  },
+  {
+    "Avg_Price": 21.7,
+    "CropName": "觀音蓮"
+  },
+  {
+    "Avg_Price": 28.5,
+    "CropName": "石玫瑰"
+  },
+  {
+    "Avg_Price": 40.0,
+    "CropName": "薑荷花"
+  },
+  {
+    "Avg_Price": 100.8,
+    "CropName": "紅薑花"
+  },
+  {
+    "Avg_Price": 101.0,
+    "CropName": "嘉蘭(火焰百合)"
+  },
+  {
+    "Avg_Price": 81.9,
+    "CropName": "夜來香"
+  },
+  {
+    "Avg_Price": 153.0,
+    "CropName": "初雪草"
+  },
+  {
+    "Avg_Price": 48.4,
+    "CropName": "秀線"
+  },
+  {
+    "Avg_Price": 44.1,
+    "CropName": "千日紅"
+  },
+  {
+    "Avg_Price": 143.4,
+    "CropName": "向日葵"
+  },
+  {
+    "Avg_Price": 84.9,
+    "CropName": "波斯菊"
+  },
+  {
+    "Avg_Price": 46.0,
+    "CropName": "白日草"
+  },
+  {
+    "Avg_Price": 138.5,
+    "CropName": "大理花"
+  },
+  {
+    "Avg_Price": 86.1,
+    "CropName": "雞冠花"
+  },
+  {
+    "Avg_Price": 100.0,
+    "CropName": "槍型雞冠花"
+  },
+  {
+    "Avg_Price": 95.0,
+    "CropName": "垂雞冠"
+  },
+  {
+    "Avg_Price": 9.8,
+    "CropName": "珊瑚鳳梨"
+  },
+  {
+    "Avg_Price": 182.5,
+    "CropName": "金魚草"
+  },
+  {
+    "Avg_Price": 59.0,
+    "CropName": "麒麟草"
+  },
+  {
+    "Avg_Price": 112.2,
+    "CropName": "繡球花"
+  },
+  {
+    "Avg_Price": 126.8,
+    "CropName": "伯利恆之星"
+  },
+  {
+    "Avg_Price": 16.3,
+    "CropName": "茉莉花"
+  },
+  {
+    "Avg_Price": 393.3,
+    "CropName": "藍星花"
+  },
+  {
+    "Avg_Price": 189.0,
+    "CropName": "姬百合"
+  },
+  {
+    "Avg_Price": 142.0,
+    "CropName": "LA百合"
+  },
+  {
+    "Avg_Price": 72.0,
+    "CropName": "重瓣百合"
+  },
+  {
+    "Avg_Price": 71.4,
+    "CropName": "蘭花"
+  },
+  {
+    "Avg_Price": 158.9,
+    "CropName": "腎藥蘭"
+  },
+  {
+    "Avg_Price": 209.9,
+    "CropName": "千代蘭"
+  },
+  {
+    "Avg_Price": 163.4,
+    "CropName": "萬代蘭"
+  },
+  {
+    "Avg_Price": 315.7,
+    "CropName": "檸檬綠文心蘭"
+  },
+  {
+    "Avg_Price": 210.0,
+    "CropName": "文心蘭"
+  },
+  {
+    "Avg_Price": 160.0,
+    "CropName": "石斛蘭"
+  },
+  {
+    "Avg_Price": 54.8,
+    "CropName": "蝴蝶蘭"
+  },
+  {
+    "Avg_Price": 268.0,
+    "CropName": "玫瑰"
+  },
+  {
+    "Avg_Price": 100.0,
+    "CropName": "香水百合"
+  },
+  {
+    "Avg_Price": 102.4,
+    "CropName": "水晶香水"
+  },
+  {
+    "Avg_Price": 130.0,
+    "CropName": "OT曼尼薩"
+  },
+  {
+    "Avg_Price": 180.0,
+    "CropName": "OT百合"
+  },
+  {
+    "Avg_Price": 130.0,
+    "CropName": "OT大連"
+  },
+  {
+    "Avg_Price": 204.0,
+    "CropName": "OT帕雷諾"
+  },
+  {
+    "Avg_Price": 270.0,
+    "CropName": "OT競爭者"
+  },
+  {
+    "Avg_Price": 195.5,
+    "CropName": "OT試金石"
+  },
+  {
+    "Avg_Price": 207.0,
+    "CropName": "OT紅福特"
+  },
+  {
+    "Avg_Price": 69.7,
+    "CropName": "鐵砲百合"
+  },
+  {
+    "Avg_Price": 300.0,
+    "CropName": "洋桔梗"
+  },
+  {
+    "Avg_Price": 122.6,
+    "CropName": "洋吉梗"
+  },
+  {
+    "Avg_Price": 40.8,
+    "CropName": "粉孔雀"
+  },
+  {
+    "Avg_Price": 239.5,
+    "CropName": "紫孔雀"
+  },
+  {
+    "Avg_Price": 82.7,
+    "CropName": "卡斯比亞"
+  },
+  {
+    "Avg_Price": 140.0,
+    "CropName": "水晶花"
+  },
+  {
+    "Avg_Price": 50.7,
+    "CropName": "切葉類"
+  },
+  {
+    "Avg_Price": 53.7,
+    "CropName": "尤加利葉"
+  },
+  {
+    "Avg_Price": 65.0,
+    "CropName": "唐棉"
+  },
+  {
+    "Avg_Price": 68.6,
+    "CropName": "黃椰心葉"
+  },
+  {
+    "Avg_Price": 63.1,
+    "CropName": "電信蘭葉"
+  },
+  {
+    "Avg_Price": 17.2,
+    "CropName": "葉蘭"
+  },
+  {
+    "Avg_Price": 27.3,
+    "CropName": "八角金盤"
+  },
+  {
+    "Avg_Price": 101.5,
+    "CropName": "蓮蓬"
+  },
+  {
+    "Avg_Price": 24.3,
+    "CropName": "扁柏"
+  },
+  {
+    "Avg_Price": 76.0,
+    "CropName": "牛頭茄"
+  },
+  {
+    "Avg_Price": 6.0,
+    "CropName": "百合竹"
+  },
+  {
+    "Avg_Price": 61.2,
+    "CropName": "雪松"
+  },
+  {
+    "Avg_Price": 114.1,
+    "CropName": "紐西蘭麻"
+  },
+  {
+    "Avg_Price": 218.0,
+    "CropName": "火龍果"
+  },
+  {
+    "Avg_Price": 10.0,
+    "CropName": "綠春蘭葉"
+  },
+  {
+    "Avg_Price": 18.1,
+    "CropName": "水燭葉"
+  },
+  {
+    "Avg_Price": 130.0,
+    "CropName": "山防風"
+  },
+  {
+    "Avg_Price": 82.0,
+    "CropName": "青竹"
+  },
+  {
+    "Avg_Price": 55.0,
+    "CropName": "紅竹"
+  },
+  {
+    "Avg_Price": 60.6,
+    "CropName": "白竹"
+  },
+  {
+    "Avg_Price": 17.1,
+    "CropName": "蓮花竹"
+  },
+  {
+    "Avg_Price": 192.3,
+    "CropName": "進口大菊"
+  },
+  {
+    "Avg_Price": 125.4,
+    "CropName": "進口染色大菊"
+  },
+  {
+    "Avg_Price": 162.7,
+    "CropName": "進口小菊"
+  },
+  {
+    "Avg_Price": 140.1,
+    "CropName": "進口其它花卉"
+  },
+  {
+    "Avg_Price": 50.9,
+    "CropName": "進口針墊花"
+  },
+  {
+    "Avg_Price": 156.8,
+    "CropName": "進口帝王花"
+  },
+  {
+    "Avg_Price": 42.9,
+    "CropName": "進口繡球花"
+  },
+  {
+    "Avg_Price": 199.9,
+    "CropName": "進口臘梅"
+  },
+  {
+    "Avg_Price": 250.0,
+    "CropName": "進口鬱金香"
+  },
+  {
+    "Avg_Price": 280.2,
+    "CropName": "進口非洲鬱金香"
+  },
+  {
+    "Avg_Price": 160.8,
+    "CropName": "進口石斛蘭"
+  },
+  {
+    "Avg_Price": 535.0,
+    "CropName": "進口玫瑰"
+  },
+  {
+    "Avg_Price": 150.0,
+    "CropName": "進口切葉類"
+  },
+  {
+    "Avg_Price": 135.0,
+    "CropName": "進口樺木(假葉)"
+  },
+  {
+    "Avg_Price": 200.0,
+    "CropName": "草莓"
+  },
+  {
+    "Avg_Price": 10.5,
+    "CropName": "甘蔗"
+  },
+  {
+    "Avg_Price": 90.0,
+    "CropName": "其他花類"
+  },
+  {
+    "Avg_Price": 85.0,
+    "CropName": "柚子"
+  },
+  {
+    "Avg_Price": 140.0,
+    "CropName": "草菇"
+  },
+  {
+    "Avg_Price": 38.0,
+    "CropName": "醃瓜"
+  },
+  {
+    "Avg_Price": 28.0,
+    "CropName": "筍茸"
+  },
+  {
+    "Avg_Price": 30.0,
+    "CropName": "朴菜"
+  },
+  {
+    "Avg_Price": 100.0,
+    "CropName": "金針筍"
+  },
+  {
+    "Avg_Price": 195.0,
+    "CropName": "百合"
+  },
+  {
+    "Avg_Price": 220.0,
+    "CropName": "半天花"
+  }
+]
