@@ -4,6 +4,10 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
+<<<<<<< HEAD
 dependencies = [
     "pandas>=3.0.6",
 ]
+=======
+dependencies = []
+>>>>>>> ef336adb6b176548316553b81672880c94fa18e9
