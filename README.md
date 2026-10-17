@@ -31,11 +31,11 @@ Python、GCP（VM）、Docker / Docker Compose、Airflow、Kafka、MongoDB、MyS
 
 | 模組 | 負責內容 | 負責人 |
 | :--- | :--- | :--- |
-| 食譜爬蟲與資料寫入 | Kafka、Proxy Worker、MongoDB | <組員> |
-| 資料正規化與 ETL | 食材清洗、營養計算、匯入 MySQL | <組員> |
+| 食譜爬蟲與資料寫入 | Kafka、Proxy Worker、MongoDB | 組員 |
+| 資料正規化與 ETL | 食材清洗、營養計算、匯入 MySQL | 組員 |
 | **價格模組** | **賣場價格抓取、重量換算、回填營養表** | **我** |
-| API 與 LINE Bot | Flask API、Hermes 整合 | <組員> |
-| 網頁端 | 透過 Flask API 開發 | <組員> |
+| API 與 LINE Bot | Flask API、Hermes 整合 | 組員 |
+| 網頁端 | 透過 Flask API 開發 | 組員 |
 
 ## 我的貢獻：價格模組
 
@@ -53,8 +53,6 @@ Python、GCP（VM）、Docker / Docker Compose、Airflow、Kafka、MongoDB、MyS
 | 價格比對結果偏少 | 增加品名關鍵字相似度；仍未比對到時改用站內搜尋 |
 | 比對到非食品類商品 | 排除非食品類關鍵字或商品類型 |
 | 網頁缺少重量資訊 | 優先擷取商品名稱中的重量；抓不到再讀取規格欄位 |
-
-詳細說明請見：[價格模組 README](recipe_gcp_docker_compose/python/Price)
 
 ## 專案程式與說明
 
